@@ -1,7 +1,10 @@
 # ATLAS//LIVE
 
-市場、航空、交通、気象、地震、海運など、世界の公開データを横断するライブ情報ハブです。
+世界の公開データを横断するライブ情報ダッシュボードです。
 
-- 公開URL: https://almond1114.github.io/world-web/
-- データ源: Open-Meteo / USGS / OpenSky / Transitland / Frankfurter / CoinGecko / NASA EONET ほか
-- 注記: 投資判断、運行保証、防災判断の代替ではありません。
+- GitHub Pages: https://almond1114.github.io/world-web/
+- 直接取得: Open-Meteo, USGS, Open Transport Data CH, Frankfurter
+- 定期スナップショット: OpenSky, Yahoo Finance, CoinGecko, NASA EONET
+- GitHub Actions が毎時17分・47分に公開APIスナップショットを更新します。
+
+各データの権利・利用条件はサイト内の「公開データ・ソース」から参照してください。

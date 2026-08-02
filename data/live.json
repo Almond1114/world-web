@@ -1,0 +1,678 @@
+{
+  "generatedAt": "2026-08-02T23:10:38.970Z",
+  "weather": [
+    {
+      "city": "東京",
+      "country": "JP",
+      "lat": 35.6762,
+      "lon": 139.6503,
+      "temp": 23.4,
+      "wind": 5.1,
+      "code": 2
+    },
+    {
+      "city": "ロンドン",
+      "country": "GB",
+      "lat": 51.5072,
+      "lon": -0.1276,
+      "temp": 20.8,
+      "wind": 14.8,
+      "code": 1
+    },
+    {
+      "city": "ニューヨーク",
+      "country": "US",
+      "lat": 40.7128,
+      "lon": -74.006,
+      "temp": 25,
+      "wind": 18.6,
+      "code": 3
+    },
+    {
+      "city": "シンガポール",
+      "country": "SG",
+      "lat": 1.3521,
+      "lon": 103.8198,
+      "temp": 25.6,
+      "wind": 4.7,
+      "code": 1
+    },
+    {
+      "city": "ドバイ",
+      "country": "AE",
+      "lat": 25.2048,
+      "lon": 55.2708,
+      "temp": 32.5,
+      "wind": 7.7,
+      "code": 0
+    },
+    {
+      "city": "シドニー",
+      "country": "AU",
+      "lat": -33.8688,
+      "lon": 151.2093,
+      "temp": 12,
+      "wind": 7,
+      "code": 2
+    }
+  ],
+  "airQuality": [
+    {
+      "city": "東京",
+      "country": "JP",
+      "aqi": 79,
+      "pm25": 9.5
+    },
+    {
+      "city": "ロンドン",
+      "country": "GB",
+      "aqi": 49,
+      "pm25": 7.3
+    },
+    {
+      "city": "ニューヨーク",
+      "country": "US",
+      "aqi": 58,
+      "pm25": 11.3
+    },
+    {
+      "city": "シンガポール",
+      "country": "SG",
+      "aqi": 64,
+      "pm25": 14
+    },
+    {
+      "city": "ドバイ",
+      "country": "AE",
+      "aqi": 172,
+      "pm25": 94.1
+    },
+    {
+      "city": "シドニー",
+      "country": "AU",
+      "aqi": 62,
+      "pm25": 17.6
+    }
+  ],
+  "marine": [
+    {
+      "place": "相模湾",
+      "lat": 34.8,
+      "lon": 139.5,
+      "wave": 1.98,
+      "temp": 27.5
+    },
+    {
+      "place": "北大西洋",
+      "lat": 45,
+      "lon": -25,
+      "wave": 2.22,
+      "temp": 20.3
+    },
+    {
+      "place": "シンガポール海峡",
+      "lat": 1.15,
+      "lon": 103.7,
+      "wave": 0.16,
+      "temp": 29.7
+    },
+    {
+      "place": "シドニー沖",
+      "lat": -34.1,
+      "lon": 151.5,
+      "wave": 1.46,
+      "temp": 18.8
+    }
+  ],
+  "earthquakes": [
+    {
+      "place": "16 km SW of Sarangani, Philippines",
+      "magnitude": 4.5,
+      "time": 1785710910631,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thp0"
+    },
+    {
+      "place": "85 km ENE of Chignik, Alaska",
+      "magnitude": 3.5,
+      "time": 1785708206315,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026pfcuob"
+    },
+    {
+      "place": "85 km SSE of Shikotan, Russia",
+      "magnitude": 4.5,
+      "time": 1785700930395,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thna"
+    },
+    {
+      "place": "229 km ESE of Attu Station, Alaska",
+      "magnitude": 4.3,
+      "time": 1785695492439,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thn1"
+    },
+    {
+      "place": "16 km NW of Changning, China",
+      "magnitude": 5,
+      "time": 1785694906259,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thn0"
+    },
+    {
+      "place": "24 km NNW of Riosucio, Colombia",
+      "magnitude": 4.4,
+      "time": 1785690755135,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmv"
+    },
+    {
+      "place": "84 km ENE of Alianza Cristiana, Peru",
+      "magnitude": 4.3,
+      "time": 1785690584131,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmt"
+    },
+    {
+      "place": "39 km E of King Cove, Alaska",
+      "magnitude": 3.4,
+      "time": 1785688976388,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmq"
+    },
+    {
+      "place": "230 km ESE of Attu Station, Alaska",
+      "magnitude": 4.1,
+      "time": 1785688068352,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/aka2026perpqc"
+    },
+    {
+      "place": "170 km SE of Sarangani, Philippines",
+      "magnitude": 4.7,
+      "time": 1785688022032,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmn"
+    },
+    {
+      "place": "8 km N of Belén, Nicaragua",
+      "magnitude": 4.6,
+      "time": 1785686970420,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmh"
+    },
+    {
+      "place": "south of Tonga",
+      "magnitude": 5,
+      "time": 1785684930843,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thmd"
+    },
+    {
+      "place": "18 km N of Honchō, Japan",
+      "magnitude": 4.8,
+      "time": 1785682187350,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm9"
+    },
+    {
+      "place": "207 km NW of Oula Xiuma, China",
+      "magnitude": 4.9,
+      "time": 1785681102674,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm7"
+    },
+    {
+      "place": "65 km NW of Ende, Indonesia",
+      "magnitude": 4.6,
+      "time": 1785680261663,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm6"
+    },
+    {
+      "place": "253 km ESE of Chiniak, Alaska",
+      "magnitude": 3.1,
+      "time": 1785677295829,
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000thm3"
+    }
+  ],
+  "transit": [
+    {
+      "line": "S018011",
+      "destination": "Zürich Flughafen",
+      "category": "S",
+      "departure": "04:33"
+    },
+    {
+      "line": "S12",
+      "destination": "Brugg AG",
+      "category": "S",
+      "departure": "04:44"
+    },
+    {
+      "line": "S11",
+      "destination": "Aarau",
+      "category": "S",
+      "departure": "04:59"
+    },
+    {
+      "line": "S018017",
+      "destination": "Winterthur",
+      "category": "S",
+      "departure": "05:02"
+    },
+    {
+      "line": "S16",
+      "destination": "Rapperswil SG",
+      "category": "S",
+      "departure": "05:05"
+    },
+    {
+      "line": "S8",
+      "destination": "Rapperswil SG",
+      "category": "S",
+      "departure": "05:07"
+    },
+    {
+      "line": "S9",
+      "destination": "Schaffhausen",
+      "category": "S",
+      "departure": "05:07"
+    },
+    {
+      "line": "IR37",
+      "destination": "Basel SBB",
+      "category": "IR",
+      "departure": "05:08"
+    }
+  ],
+  "fx": [
+    {
+      "pair": "USD/CHF",
+      "value": 0.80954
+    },
+    {
+      "pair": "USD/EUR",
+      "value": 0.86932
+    },
+    {
+      "pair": "USD/GBP",
+      "value": 0.74452
+    },
+    {
+      "pair": "USD/JPY",
+      "value": 160.76
+    }
+  ],
+  "crypto": [
+    {
+      "symbol": "BITCOIN",
+      "value": 63310,
+      "change": 0.8376697995756145
+    },
+    {
+      "symbol": "ETHEREUM",
+      "value": 1876.68,
+      "change": 1.6494552899417394
+    },
+    {
+      "symbol": "SOLANA",
+      "value": 73.47,
+      "change": 2.0928287925527216
+    }
+  ],
+  "events": [
+    {
+      "title": "Wildfire Camden McCarthy Overpass Fire, Camden, Georgia",
+      "category": "Wildfires",
+      "date": "2026-07-30T00:14:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21965"
+    },
+    {
+      "title": "Wildfire Duhamel, Pennington, South Dakota",
+      "category": "Wildfires",
+      "date": "2026-07-29T18:24:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21968"
+    },
+    {
+      "title": "Wildfire HOLEY LAND (6), Broward, Florida",
+      "category": "Wildfires",
+      "date": "2026-07-28T19:53:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21976"
+    },
+    {
+      "title": "Wildfire L 28, Broward, Florida",
+      "category": "Wildfires",
+      "date": "2026-07-28T09:53:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21977"
+    },
+    {
+      "title": "Wildfire Widemouth 2, Millard, Utah",
+      "category": "Wildfires",
+      "date": "2026-07-27T19:19:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21966"
+    },
+    {
+      "title": "Wildfire Potato Creek, Jackson, South Dakota",
+      "category": "Wildfires",
+      "date": "2026-07-27T17:22:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21973"
+    },
+    {
+      "title": "Wildfire FISH, Kern, California",
+      "category": "Wildfires",
+      "date": "2026-07-27T15:11:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21971"
+    },
+    {
+      "title": "Wildfire Rayado Mesa, Colfax, New Mexico",
+      "category": "Wildfires",
+      "date": "2026-07-27T15:09:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21969"
+    },
+    {
+      "title": "Wildfire Fairpoint, Meade, South Dakota",
+      "category": "Wildfires",
+      "date": "2026-07-27T11:21:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21829"
+    },
+    {
+      "title": "Wildfire Kohns, Campbell, Wyoming",
+      "category": "Wildfires",
+      "date": "2026-07-27T10:36:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21972"
+    },
+    {
+      "title": "Super Typhoon Dolphin",
+      "category": "Severe Storms",
+      "date": "2026-08-02T12:00:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21776"
+    },
+    {
+      "title": "Wildfire Twin Butte Ck, Corson, South Dakota",
+      "category": "Wildfires",
+      "date": "2026-07-27T00:31:00Z",
+      "url": "https://eonet.gsfc.nasa.gov/api/v3/events/EONET_21835"
+    }
+  ],
+  "flights": [
+    {
+      "callsign": "JAL252",
+      "country": "Japan",
+      "lon": 136.715,
+      "lat": 34.7298,
+      "altitude": 9448.8,
+      "speed": 825.3720000000001
+    },
+    {
+      "callsign": "ADO71",
+      "country": "Japan",
+      "lon": 139.8727,
+      "lat": 36.0392,
+      "altitude": 4411.98,
+      "speed": 728.388
+    },
+    {
+      "callsign": "ANA13",
+      "country": "Japan",
+      "lon": 138.9706,
+      "lat": 34.9882,
+      "altitude": 7056.12,
+      "speed": 856.152
+    },
+    {
+      "callsign": "THA648",
+      "country": "Thailand",
+      "lon": 129.9859,
+      "lat": 32.9361,
+      "altitude": 5844.54,
+      "speed": 803.124
+    },
+    {
+      "callsign": "JAL202",
+      "country": "Japan",
+      "lon": 138.046,
+      "lat": 34.2846,
+      "altitude": 7010.4,
+      "speed": 703.764
+    },
+    {
+      "callsign": "GIA880",
+      "country": "Indonesia",
+      "lon": 139.4115,
+      "lat": 33.8723,
+      "altitude": 12298.68,
+      "speed": 819.936
+    },
+    {
+      "callsign": "ANA50",
+      "country": "Japan",
+      "lon": 141.2084,
+      "lat": 39.664,
+      "altitude": 12192,
+      "speed": 966.636
+    },
+    {
+      "callsign": "SFJ73",
+      "country": "Japan",
+      "lon": 138.6751,
+      "lat": 35.4741,
+      "altitude": 8488.68,
+      "speed": 764.532
+    },
+    {
+      "callsign": "JAL2001",
+      "country": "Japan",
+      "lon": 136.3145,
+      "lat": 35.078,
+      "altitude": 7185.66,
+      "speed": 788.22
+    },
+    {
+      "callsign": "THA670",
+      "country": "Thailand",
+      "lon": 140.3232,
+      "lat": 40.3353,
+      "altitude": 12489.18,
+      "speed": 805.392
+    },
+    {
+      "callsign": "DLH716",
+      "country": "Germany",
+      "lon": 129.264,
+      "lat": 37.4555,
+      "altitude": 11277.6,
+      "speed": 920.772
+    },
+    {
+      "callsign": "SAS983",
+      "country": "Sweden",
+      "lon": 139.2892,
+      "lat": 34.7133,
+      "altitude": 5455.92,
+      "speed": 659.34
+    },
+    {
+      "callsign": "JAL475",
+      "country": "Japan",
+      "lon": 139.7168,
+      "lat": 35.459,
+      "altitude": 2994.66,
+      "speed": 539.928
+    },
+    {
+      "callsign": "ANA14",
+      "country": "Japan",
+      "lon": 137.2462,
+      "lat": 34.7377,
+      "altitude": 7612.38,
+      "speed": 713.376
+    },
+    {
+      "callsign": "ANA672",
+      "country": "Japan",
+      "lon": 136.0343,
+      "lat": 35.0579,
+      "altitude": 11887.2,
+      "speed": 909.468
+    },
+    {
+      "callsign": "JJP230",
+      "country": "Japan",
+      "lon": 137.521,
+      "lat": 33.687,
+      "altitude": 10066.02,
+      "speed": 817.956
+    },
+    {
+      "callsign": "JAL300",
+      "country": "Japan",
+      "lon": 137.6373,
+      "lat": 34.5401,
+      "altitude": 10134.6,
+      "speed": 819.9720000000001
+    },
+    {
+      "callsign": "IBX33",
+      "country": "Japan",
+      "lon": 132.7072,
+      "lat": 34.0131,
+      "altitude": 1432.56,
+      "speed": 439.272
+    },
+    {
+      "callsign": "THY50",
+      "country": "Turkey",
+      "lon": 137.1957,
+      "lat": 36.6659,
+      "altitude": 11239.5,
+      "speed": 889.3800000000001
+    },
+    {
+      "callsign": "SFJ72",
+      "country": "Japan",
+      "lon": 139.525,
+      "lat": 34.7638,
+      "altitude": 4686.3,
+      "speed": 627.624
+    }
+  ],
+  "markets": [
+    {
+      "symbol": "N225",
+      "name": "日経平均",
+      "value": 64362.02,
+      "change": -0.87657410868337,
+      "live": true
+    },
+    {
+      "symbol": "SPX",
+      "name": "S&P 500",
+      "value": 7489.72,
+      "change": 1.0488425494942066,
+      "live": true
+    },
+    {
+      "symbol": "NDX",
+      "name": "NASDAQ 100",
+      "value": 28274.195,
+      "change": 0.5185339767650688,
+      "live": true
+    },
+    {
+      "symbol": "DAX",
+      "name": "DAX",
+      "value": 25629.24,
+      "change": 2.1125941272560724,
+      "live": true
+    }
+  ],
+  "connectors": [
+    {
+      "id": "fx",
+      "name": "Frankfurter",
+      "status": "live",
+      "mode": "DIRECT",
+      "license": "MIT / source rates",
+      "cadence": "business daily",
+      "docs": "https://frankfurter.dev/",
+      "latency": 104
+    },
+    {
+      "id": "crypto",
+      "name": "CoinGecko",
+      "status": "live",
+      "mode": "SNAPSHOT",
+      "license": "Provider terms",
+      "cadence": "30 min",
+      "docs": "https://docs.coingecko.com/docs/keyless-public-api",
+      "latency": 109
+    },
+    {
+      "id": "markets",
+      "name": "Yahoo Finance",
+      "status": "live",
+      "mode": "SNAPSHOT",
+      "license": "Provider terms",
+      "cadence": "30 min / delayed",
+      "docs": "https://finance.yahoo.com/",
+      "latency": 194
+    },
+    {
+      "id": "earthquakes",
+      "name": "USGS Earthquake Hazards",
+      "status": "live",
+      "mode": "DIRECT",
+      "license": "Public domain",
+      "cadence": "1 min",
+      "docs": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/geojson.php",
+      "latency": 401
+    },
+    {
+      "id": "flights",
+      "name": "OpenSky Network",
+      "status": "live",
+      "mode": "SNAPSHOT",
+      "license": "OpenSky terms",
+      "cadence": "30 min sample",
+      "docs": "https://openskynetwork.github.io/opensky-api/rest.html",
+      "latency": 950
+    },
+    {
+      "id": "events",
+      "name": "NASA EONET",
+      "status": "live",
+      "mode": "SNAPSHOT",
+      "license": "NASA open data",
+      "cadence": "event driven",
+      "docs": "https://eonet.gsfc.nasa.gov/docs/v3",
+      "latency": 980
+    },
+    {
+      "id": "marine",
+      "name": "Open-Meteo Marine",
+      "status": "live",
+      "mode": "DIRECT",
+      "license": "CC BY 4.0",
+      "cadence": "hourly model",
+      "docs": "https://open-meteo.com/en/docs/marine-weather-api",
+      "latency": 989
+    },
+    {
+      "id": "air",
+      "name": "Open-Meteo / CAMS",
+      "status": "live",
+      "mode": "DIRECT",
+      "license": "CC BY 4.0",
+      "cadence": "12–24 h model",
+      "docs": "https://open-meteo.com/en/docs/air-quality-api",
+      "latency": 1004
+    },
+    {
+      "id": "weather",
+      "name": "Open-Meteo Weather",
+      "status": "live",
+      "mode": "DIRECT",
+      "license": "CC BY 4.0",
+      "cadence": "15 min model",
+      "docs": "https://open-meteo.com/en/docs",
+      "latency": 1194
+    },
+    {
+      "id": "transit",
+      "name": "Open Transport Data CH",
+      "status": "live",
+      "mode": "DIRECT",
+      "license": "Provider terms",
+      "cadence": "realtime",
+      "docs": "https://transport.opendata.ch/docs.html",
+      "latency": 1680
+    }
+  ]
+}
